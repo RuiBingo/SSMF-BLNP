@@ -13,6 +13,8 @@ Output:
 
 Predictive scoring matrix
 
+Main code description：
+
 Label_Propagation.m -- Calculating linear neighborhood similarity
 
 SSMF.m -- Selective similarity matrix fusion
